@@ -5,9 +5,8 @@
   --color-surface: #1e2128;
   --color-border: #2c3038;
   --color-text: #ecedef;
-  --color-muted: #9aa0ac;      /* era --color-text-muted */
+  --color-muted: #9aa0ac;
   --color-accent: #f5b700;
-  ...
 }
 
 body {
